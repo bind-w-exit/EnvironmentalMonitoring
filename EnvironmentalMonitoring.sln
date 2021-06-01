@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnvironmentalMonitoringAPI", "EnvironmentalMonitoringAPI\EnvironmentalMonitoringAPI.csproj", "{DDE95CBB-000D-4DD1-BF76-2B1CFCA2523C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDE95CBB-000D-4DD1-BF76-2B1CFCA2523C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDE95CBB-000D-4DD1-BF76-2B1CFCA2523C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDE95CBB-000D-4DD1-BF76-2B1CFCA2523C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDE95CBB-000D-4DD1-BF76-2B1CFCA2523C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2EDA9608-158E-4821-80CB-CE2AD91633E5}
+	EndGlobalSection
+EndGlobal
